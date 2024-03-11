@@ -1,0 +1,54 @@
+.mulish {
+    font-family: "Mulish", sans-serif;
+}
+
+.homeBanner {
+    background-image: url('./assets/homebanner.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.service-card {
+    background: rgb(255, 255, 255);
+    background: linear-gradient(0deg, rgba(255, 255, 255, 0.9949229691876751) 50%, rgba(1, 115, 188, 0.03974089635854339) 100%);
+}
+.service-card2 {
+    background: rgb(255, 255, 255);
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.9949229691876751) 50%, rgba(1, 115, 188, 0.03974089635854339) 100%);
+}
+
+.image-container {
+    background-color: rgba(0, 0, 0, 1);    
+    display: inline-block;
+}
+
+.image-container img {
+    opacity: 0.8;
+    display: block;
+    width: 100%;
+    height: auto;
+}
+.image-container1 {
+    background-color: rgba(255, 255, 255,1);
+    display: inline-block;
+}
+
+.image-container1 img {
+    opacity: 0.4;
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+footer{
+    background-image: url('./assets/footer.png');
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+.banner{
+    background-image: url(./assets/homebanner.png);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: contain;
+}
